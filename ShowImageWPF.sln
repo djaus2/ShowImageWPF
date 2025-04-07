@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowImageWPF", "ShowImageWPF.csproj", "{06DCAB7A-144A-868D-2A34-59A2CEFC540D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DCAB7A-144A-868D-2A34-59A2CEFC540D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DCAB7A-144A-868D-2A34-59A2CEFC540D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DCAB7A-144A-868D-2A34-59A2CEFC540D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DCAB7A-144A-868D-2A34-59A2CEFC540D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAF8A1C-68C6-4A24-B76E-FE3D5462E2F6}
+	EndGlobalSection
+EndGlobal
